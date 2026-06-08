@@ -16,3 +16,5 @@ pipeline {
       echo 'Finally deploying!'
     }
   }
+}
+}
