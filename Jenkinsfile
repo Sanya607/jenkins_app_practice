@@ -11,7 +11,7 @@ pipeline {
         echo 'Building the app'
       }
     }
-    stage('deploy')
+    stage('deploy'){
     steps {
       echo 'Finally deploying!'
     }
